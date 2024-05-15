@@ -1,0 +1,13 @@
+.menus {
+    font-size: 20px;
+    color: red;
+}
+
+.menus:hover {
+    color: black;
+}
+
+.background {
+    background-color: blanchedalmond;
+    padding: 10px;
+}
